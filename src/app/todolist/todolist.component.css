@@ -1,0 +1,58 @@
+h1 {
+    text-align: center;
+    font-size: 2rem;
+    margin-top: 20px;
+    color: white;
+}
+
+hr {
+    color: white;
+}
+
+#submitButton {
+    margin-top: 20px;
+    text-align: center;
+    display: block;
+    width: 200px;
+    margin: 10px auto;
+}
+
+#myCheckbox {
+    margin-left: 30px;
+}
+
+#submitForm {
+    margin-top: 40px;
+}
+
+#taskInTable {
+    max-width: 300px;
+}
+
+#delete {
+    width: 60px;
+}
+
+#edit {
+    width: 60px;
+}
+
+#save {
+    width: 60px;
+}
+
+.edit {
+    border: solid 2px orange;
+}
+
+.not-edit {
+    border: none;
+}
+
+.crossed {
+    text-decoration: line-through;
+}
+
+thead tr {
+    color: white;
+}
